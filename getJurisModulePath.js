@@ -1,3 +1,3 @@
 var path = require("path");
-var localePath = path.join(__dirname, "modules");
+var modulePath = path.join(__dirname, "modules");
 module.exports = modulePath;
