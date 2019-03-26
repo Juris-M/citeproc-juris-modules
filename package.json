@@ -1,0 +1,20 @@
+{
+    "name": "citeproc-juris-modules",
+    "version": "1.0.0",
+    "description": "Bundled CSL-M legal style modules for citeproc-runner",
+    "main": "getJurisModulePath.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "modules/*.csl",
+        "modules/LICENSE",
+        "modules/README.md"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Juris-M/citeproc-juris-modules.git"
+    },
+    "author": "Frank Bennett <biercenator@gmail.com>",
+    "license": "MIT"
+}
