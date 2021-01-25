@@ -1,6 +1,6 @@
 {
     "name": "citeproc-juris-modules",
-    "version": "1.0.27",
+    "version": "1.0.28",
     "description": "Bundled CSL-M legal style modules for citeproc-runner",
     "main": "getJurisModulePath.js",
     "scripts": {
